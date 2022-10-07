@@ -1,3 +1,54 @@
+# Pokemon Move Checker - Check your favorite pokemon move set!
+
+Find the full list of moves that your favourite pokemon has!
+
+Link to project: https://lucas-memeify.netlify.app/
+![Screen Shot 2022-10-07 at 4 47 02 PM](https://user-images.githubusercontent.com/99927513/194676090-b5814cca-ee42-4dd8-bb39-f92428a0b296.png )
+
+## How It's Made:
+
+**Tech used:**
+Tech used: HTML, CSS, React
+
+This is my second time utilizing React for an API project! I utilized state more to create an error state as well as a loading state.
+
+## Optimizations
+
+- I would further optimize the app for mobile use. 
+
+- I would expand on CSS to make a more authentic pokedex feel, with more pokemon data added.
+
+## Lessons Learned:
+
+Through this project, I solidified foundational React concepts, such as:
+
+- Event listeners
+
+- State
+
+- Conditional Rendering
+
+- Forms
+
+
+## Examples
+
+Take a look at these other examples that I have in my portfolio:
+
+Lucas Faustman Portfolio website: https://github.com/LucasFaustman/lucas-faustman-portfolio
+
+myPlayer.io: https://github.com/LucasFaustman/nba-Stat-Project
+
+Local Freelance Makeup Artist: https://github.com/LucasFaustman/local-makeup-artist-website
+
+My Small CRM : https://github.com/LucasFaustman/my-small-crm/tree/main
+
+BillTrackr : https://github.com/Ash1eyC0des/bill-trackr
+
+Memeify: https://github.com/LucasFaustman/memeify/tree/main
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
