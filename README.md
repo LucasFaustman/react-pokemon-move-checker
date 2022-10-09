@@ -2,7 +2,7 @@
 
 Find the full list of moves that your favourite pokemon has!
 
-Link to project: https://lucas-memeify.netlify.app/
+Link to project: https://pokemon-move-checker.netlify.app/
 ![Screen Shot 2022-10-07 at 4 47 02 PM](https://user-images.githubusercontent.com/99927513/194676090-b5814cca-ee42-4dd8-bb39-f92428a0b296.png )
 
 ## How It's Made:
