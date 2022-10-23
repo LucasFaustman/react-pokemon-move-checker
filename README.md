@@ -1,4 +1,4 @@
-# Pokemon Move Checker - Check your favorite pokemon move set!
+# Pokemon Move Checker - Check your Favorite Pokemon Move Set!
 
 Find the full list of moves that your favourite pokemon has!
 
